@@ -14,9 +14,9 @@ description:  'Simplicity is a fast and easy to use jekyll theme for minimalists
 
 
 # Build settings
-url:          'https://mattymaloney.github.io/'
+url:          'https://mattymaloney.github.io'
 baseurl:      ''
-urlimg:       'https://mattymaloney.github.io/'
+urlimg:       'https://mattymaloney.github.io/images/'
 markdown:     kramdown
 highlighter:  pygments
 permalink:    /:categories/:title/
